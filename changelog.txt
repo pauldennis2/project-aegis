@@ -1,0 +1,10 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.0.1
+Date: 2026-05-14
+  Features:
+    - Added Missile Defense System technology (requires 10 automation science, prereq: Automization)
+    - Added Missile Defense System building (costs 10 steel plates)
+    - Building is powered and requires no ammo; interception logic to be implemented
+  Info:
+    - Initial mod scaffolding: info.json, data/control entry points, prototype stubs, locale (en)
+---------------------------------------------------------------------------------------------------
