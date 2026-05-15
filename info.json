@@ -1,0 +1,9 @@
+{
+  "name": "project-aegis",
+  "version": "0.1.0",
+  "title": "Project Aegis",
+  "author": "pauldennis2",
+  "description": "A passive long-range defense mod for Factorio.",
+  "factorio_version": "2.0",
+  "dependencies": ["base"]
+}
